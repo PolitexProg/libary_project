@@ -1,2 +1,2 @@
-web: gunicorn 'myproject-drf.wsgi'
+web: gunicorn 'app.wsgi'
 
