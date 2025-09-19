@@ -1,1 +1,1 @@
-web: gunicorn 'app.wsgi' --chdir myproject-drf
+web: gunicorn 'config.wsgi'
