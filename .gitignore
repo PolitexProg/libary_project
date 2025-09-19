@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg
+*.whl
+
+# Editors and IDEs
+.idea/  # IntelliJ IDEA / PyCharm
+.vscode/ # VS Code
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db.sqlite3
+
+# Specific to projects
+# Add any other files or directories specific to your project that should be ignored.
+# For example, if you have a data directory that stores large datasets not meant for version control:
+# data/
+# media/
+# uploads/
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
