@@ -57,6 +57,6 @@ htmlcov/
 # data/
 # media/
 # uploads/
-
+*staticfiles/
 # Jupyter Notebook specific files
 .ipynb_checkpoints/
